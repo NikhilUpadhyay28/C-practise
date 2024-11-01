@@ -1,0 +1,14 @@
+A) if (item != 0) {
+    product *= item;
+}
+printf("Product: %d\n", product);
+
+B) y = (x > y) ? (x - y) : (y - x);
+
+C) if (x == 0) {
+    zero_count++;
+} else if (x < 0) {
+    minus_sum += x;
+} else {
+    plus_sum += x;
+}
